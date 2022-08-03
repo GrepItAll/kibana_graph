@@ -1,6 +1,6 @@
 {
   "name": "graph_vis",
-  "version": "6.2.4",
+  "version": "7.6.2",
   "authors": [
   "David Moreno Lumbreras <dmorenolumb@gmail.com>",
   "Lorenzo Mangani <lorenzo.mangani@gmail.com>"
@@ -8,7 +8,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lmangani/kbn_graph"
+    "url": "https://github.com/GrepItAll/kibana_graph"
   },
   "dependencies" : {
     "vis": "4.16.1",
