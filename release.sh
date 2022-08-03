@@ -2,7 +2,7 @@
 # App Plugin packager for Kibana 5.x and higher
 #
 # Usage:
-#        VERSION="6.2.2" ./release.sh
+#        VERSION="7.6.2" ./release.sh
 #
 
 APPDIR=$(pwd)
