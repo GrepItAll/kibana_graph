@@ -9,7 +9,7 @@ Kibana plugin to Visualize aggregations as an interactive [VisJS](http://visjs.o
 ### Git Install
 ```
 cd $KIBANA_HOME/plugins
-git clone https://github.com/lmangani/kbn_graph graph_vis -b 7.6.x
+git clone https://github.com/GrepItAll/kibana_graph graph_vis -b 7.6.x
 cd graph_vis
 npm install
 ```
